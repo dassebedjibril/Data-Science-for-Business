@@ -1,4 +1,5 @@
-# Data-Science-for-Business predict the sales in the future. 
+# Data-Science-for-Business: predict the sales in the future. 
+
 For companies to become competitive and skyrocket their growth and sales, they need to leverage A.I. and machine learning to develop predictive models 
 so they can be able to forecast sales in the future.
 
@@ -32,3 +33,5 @@ really optimize all their processes if these if they correctly, were able to lev
 ML models. The sales people don't really know, like, you know, machine learning they don't know this aspect they just have the data collected and now you
 basically have been hired to help the team to analyze that data and try to develop future of Time series forecasting models to try to predict the sales in
 the future.
+
+But the point here is that when the data is provided to you as a data scientist, it's actually provided to you in two formats. So you have two csv files. The first csv file consists of all the different transactions with around one million transactions approximately and that's basically the summary of all the features. There is another csv file that consists of store specific information. And that other file consists of around thousand entries, because if you remember, we have 1000 stores that we are trying to analyze.
