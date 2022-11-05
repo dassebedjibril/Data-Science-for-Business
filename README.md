@@ -1,4 +1,4 @@
-# Data-Science-for-Business: predict the sales in the future. 
+# Data-Science-for-Business: predict the sales in the future using Facebook Prophet. 
 
 For companies to become competitive and skyrocket their growth and sales, they need to leverage A.I. and machine learning to develop predictive models 
 so they can be able to forecast sales in the future.
