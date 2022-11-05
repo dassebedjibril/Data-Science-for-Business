@@ -1,6 +1,7 @@
 # Data-Science-for-Business: predict the sales in the future using Facebook Prophet. 
 
-`Important: If you are unable to open the notebook kindly dowload it to your local PC. I couldn'd upload the second .csv file. find it here please https://www.kaggle.com/c/rossmann-store-sales/data`
+`Important: (If you are unable to open the notebook kindly dowload it to your local PC. I couldn'd upload the second .csv file. find it here please https://www.kaggle.com/c/rossmann-store-sales/data`)
+
 For companies to become competitive and skyrocket their growth and sales, they need to leverage A.I. and machine learning to develop predictive models 
 so they can be able to forecast sales in the future.
 
